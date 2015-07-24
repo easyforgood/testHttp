@@ -1950,7 +1950,6 @@ containing a value of this type.
         public static final int alertTitle=0x7f090030;
         public static final int always=0x7f090019;
         public static final int beginning=0x7f090020;
-        public static final int btnGetHttpReq=0x7f090050;
         public static final int buttonPanel=0x7f090036;
         public static final int cancel_action=0x7f090052;
         public static final int checkbox=0x7f090038;
@@ -1969,6 +1968,8 @@ containing a value of this type.
         public static final int end_padder=0x7f09005d;
         public static final int expand_activities_button=0x7f090027;
         public static final int expanded_menu=0x7f090037;
+        public static final int gridview_item_imgview=0x7f09004f;
+        public static final int gridview_txtview=0x7f090050;
         public static final int home=0x7f090000;
         public static final int homeAsUp=0x7f09000e;
         public static final int icon=0x7f09002b;
@@ -2020,7 +2021,6 @@ containing a value of this type.
         public static final int title=0x7f09002c;
         public static final int title_template=0x7f09002f;
         public static final int topPanel=0x7f09002e;
-        public static final int txtviewShow=0x7f09004f;
         public static final int up=0x7f090001;
         public static final int useLogo=0x7f090013;
         public static final int withText=0x7f09001d;
@@ -2089,18 +2089,19 @@ containing a value of this type.
         public static final int abc_select_dialog_material=0x7f030017;
         public static final int abc_simple_dropdown_hint=0x7f030018;
         public static final int activity_main=0x7f030019;
-        public static final int notification_media_action=0x7f03001a;
-        public static final int notification_media_cancel_action=0x7f03001b;
-        public static final int notification_template_big_media=0x7f03001c;
-        public static final int notification_template_big_media_narrow=0x7f03001d;
-        public static final int notification_template_lines=0x7f03001e;
-        public static final int notification_template_media=0x7f03001f;
-        public static final int notification_template_part_chronometer=0x7f030020;
-        public static final int notification_template_part_time=0x7f030021;
-        public static final int select_dialog_item_material=0x7f030022;
-        public static final int select_dialog_multichoice_material=0x7f030023;
-        public static final int select_dialog_singlechoice_material=0x7f030024;
-        public static final int support_simple_spinner_dropdown_item=0x7f030025;
+        public static final int gridview_item=0x7f03001a;
+        public static final int notification_media_action=0x7f03001b;
+        public static final int notification_media_cancel_action=0x7f03001c;
+        public static final int notification_template_big_media=0x7f03001d;
+        public static final int notification_template_big_media_narrow=0x7f03001e;
+        public static final int notification_template_lines=0x7f03001f;
+        public static final int notification_template_media=0x7f030020;
+        public static final int notification_template_part_chronometer=0x7f030021;
+        public static final int notification_template_part_time=0x7f030022;
+        public static final int select_dialog_item_material=0x7f030023;
+        public static final int select_dialog_multichoice_material=0x7f030024;
+        public static final int select_dialog_singlechoice_material=0x7f030025;
+        public static final int support_simple_spinner_dropdown_item=0x7f030026;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
